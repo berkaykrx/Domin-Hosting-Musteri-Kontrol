@@ -1,4 +1,5 @@
 inc/db.php - Veritabanı Ayarı
+
 inc/dbConn.php - Şehir Seçme Olayı Veritabanı Ayarı
 
 CronJob Ayarı
