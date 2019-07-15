@@ -1,0 +1,14 @@
+inc/db.php - Veritabaný Ayarý
+inc/dbConn.php - Þehir Seçme Olayý Veritabaný Ayarý
+
+CronJob Ayarý
+
+cron/domain.php
+cron/hosting.php
+
+// Mail Ayarlarý Site Ýçinde Ayarlar Bölümünde. Gönderilen Mail Tasarýmýný domain.php ve hosting.php'den Deðiþtirebilirsin.
+
+
+Giriþ
+
+admin / admin
